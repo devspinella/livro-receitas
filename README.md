@@ -1,4 +1,4 @@
 
 # Livro de Receitas
 
-Olá! Bem vindo! 
+Olá! Bem vindo ao meu livro de receitas.
